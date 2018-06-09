@@ -1,1 +1,1 @@
-monday, tuesday, wednesday,thursday,friday
+monday, tuesday, wednesday,thursday,friday,saturday,sunday
